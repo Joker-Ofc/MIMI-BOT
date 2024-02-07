@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: MIMI-BOT
+    env: docker
+    region: Frankfurt
+    plan: free
