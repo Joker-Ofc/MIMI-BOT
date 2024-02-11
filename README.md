@@ -65,7 +65,7 @@
 
 #### 2. Now deploy
    <br>
-  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FJoker-Ofc%2FMIMI-BOT&branch=main&namejokerofc&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="140" height="45.45"/></a></p>
+  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FJoker-Ofc%2FMIMI-BOT&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="140" height="45.45"/></a></p>
 
 
 <h1 align="left">suᴘᴘoʀт ԍʀouᴘ ʟιɴκ</h1>
